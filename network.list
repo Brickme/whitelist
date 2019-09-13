@@ -1,7 +1,25 @@
-##Your whitelist has these 26 entries:
-www.msftncsi.com
-msftncsi.com
+events.gfe.nvidia.com
+firebog.net
+gitlab.com
+hosts-file.net
 ipv6.msftncsi.com
+ksn-cinfo-geo.kaspersky-labs.com
+ksn-crypto-wifiplus-geo.kaspersky-labs.com
+ksn-file-geo.kaspersky-labs.com
+ksn-info-geo.kaspersky-labs.com
+mirror1.malwaredomains.com
+msftncsi.com
+raw.githubusercontent.com
+s3.amazonaws.com
+someonewhocares.org
+sysctl.org
+v.firebog.net
+wally3k.github.io
+winhelp2002.mvps.org
+www.hosts-file.net
+www.malwaredomainlist.com
+www.msftncsi.com
+zeustracker.abuse.ch
 aax-eu.amazon-adsystem.com # whitelisted for smallnetbuilder.com
 aax-us-east.amazon-adsystem.com # whitelisted for smallnetbuilder.com
 ad2.netshelter.net # whitelisted for smallnetbuilder.com

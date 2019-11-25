@@ -1,9 +1,12 @@
 m.hotmail.com
+outlook.live.com
+login.live.com
 events.gfe.nvidia.com
 firebog.net
 gitlab.com
 hosts-file.net
 ipv6.msftncsi.com
+statistics.safekids.ucp.kaspersky-labs.com
 ksn-cinfo-geo.kaspersky-labs.com
 ksn-crypto-wifiplus-geo.kaspersky-labs.com
 ksn-file-geo.kaspersky-labs.com
@@ -43,4 +46,7 @@ ws-eu.amazon-adsystem.com # whitelisted for smallnetbuilder.com
 ws-na.amazon-adsystem.com # whitelisted for smallnetbuilder.com
 z-na.amazon-adsystem.com # whitelisted for smallnetbuilder.com
 app.adjust.com # War Dragons
+app-measurement.com
 504-dot-pgdragonsong.appspot.com # War Dragons
+pgdragonsong.appspot.com # war Dragons
+wardragons.zendesk.com # War Dragons
